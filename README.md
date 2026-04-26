@@ -31,8 +31,8 @@ The application is designed with a clean and modern user interface and provides 
 - Event Handling  
 - Conditional Logic  
 - Functions & Scope  
-- Local Storage (if used)  
-- Async JavaScript (if used)
+- Local Storage   
+- Async JavaScript 
 
 ---
 

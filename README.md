@@ -1,4 +1,4 @@
-# 🚀 [Project Name] – Interactive Web Application
+# 🚀 [E-commerce website] – Interactive Web Application
 
 ## 📌 Overview
 This project is a responsive and interactive web application developed using HTML, CSS, and JavaScript. It demonstrates strong frontend development skills including dynamic UI rendering, user interaction handling, and logical problem-solving.
@@ -15,9 +15,7 @@ The application is designed with a clean and modern user interface and provides 
 - 🧠 Logic-based functionality  
 - 🔁 Smooth navigation and user flow  
 
-(👉 Replace or add your real features like: timer, score, tasks, API, etc.)
 
----
 
 ## 🛠️ Tech Stack
 - HTML5  
